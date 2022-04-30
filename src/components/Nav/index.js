@@ -5,8 +5,8 @@ function Nav(props) {
   const {
     categories = [],
     setCurrentCategory,
-    currentCategory,
     contactSelected,
+    currentCategory,
     setContactSelected,
   } = props;
 
@@ -44,7 +44,7 @@ function Nav(props) {
               className={`mx-1 ${
                 currentCategory.name === category.name &&
                 !contactSelected &&
-                `navActive`
+                "navActive"
               }`}
               key={category.name}
             >
