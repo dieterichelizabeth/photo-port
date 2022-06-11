@@ -4,6 +4,36 @@ Photo port is a single-page application (SPA) built for a client who needs to di
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+Homepage-
+<img width="1415" alt="Screen Shot 2022-06-06 at 3 11 43 PM" src="https://user-images.githubusercontent.com/95142863/173174117-b0ffbfb4-84cb-4822-be8f-279a8a70720c.png">
+
+Modal-
+<img width="1394" alt="Screen Shot 2022-06-06 at 3 11 55 PM" src="https://user-images.githubusercontent.com/95142863/173174125-ea10af83-58f7-4e80-9254-0df585a6a418.png">
+
+## Run Locally
+
+This project requires Node.js- [here is a resouce to get started](https://nodejs.org/en/). One Node.js is installed, in the terminal:
+
+1. Clone the Repo
+
+```bash
+git clone https://github.com/dieterichelizabeth/photo-port.git
+```
+
+2. Install the dependencies
+
+```bash
+npm install
+```
+
+3. Start the project
+
+```bash
+npm start
+```
+
 ## Documentation/Resources
 
 - [React.js](https://reactjs.org/)
@@ -17,6 +47,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [React Dom Controlled Components](https://reactjs.org/docs/forms.html#controlled-components)
 - [MDN Computed Property Names](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#computed_property_names)
 - [React Fragments](https://reactjs.org/docs/fragments.html)
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
 
 ---
 
